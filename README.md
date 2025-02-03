@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yolisaq
-- 👀 I’m interested in getting a job under Data Analyst,Graphic Design, Back and Front End Developer, Wordlpress, creating User Stories.
-- 🌱 I’m currently learning Bachelor of Engineering Technology in Computer Engineering
+- 🌱 I’m currently doing Bachelor of Computer and Information Science Honours
+- I have an interest to do the Development of Autonomous Satellite System for Disease Monitoring
 - 💞️ I’m looking to collaborate on IT professionals
 - 📫 How to reach me yolisaqadi12@gmail.com/ 0717311433
 
