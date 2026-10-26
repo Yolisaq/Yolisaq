@@ -224,7 +224,7 @@ My professional background includes experience across the following areas:
 
 - Oracle Cloud Infrastructure Certified Foundations Associate
 - Oracle AI Database Certified Foundations Associate
-- Oracle Cloud Infrastructure Architect Associate — examination listed on CV
+- Oracle Cloud Infrastructure Architect Associate - examination listed on CV
 
 ### 🔐 Cisco Networking Academy
 
@@ -236,9 +236,9 @@ My professional background includes experience across the following areas:
 
 ### 📚 Additional Training
 
-- CompTIA A+ — Parts 1 and 2
+- CompTIA A+ - Parts 1 and 2
 - CompTIA Security+ and Cloud+ training
-- Cisco CCNA — ICND1 and ICND2 training
+- Cisco CCNA - ICND1 and ICND2 training
 - Microsoft Digital Literacy
 - Cyber Security Awareness
 - Amadeus Travel Systems Training
