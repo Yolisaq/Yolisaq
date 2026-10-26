@@ -18,11 +18,11 @@ My experience spans requirements engineering, system development, data integrati
 
 ## 🎓 Education
 
-- 🎓 **Honours in Computer Science — Data Analysis**
-- 💻 **BSc in Information Technology — System Development**
-- 🤖 **Software Engineering — AI for Software Development**
-- 🌐 **Introduction to Digital Technologies — Fourth Industrial Revolution (4IR)**
-- 📚 **Bachelor of Education — Intermediate Phase (Mathematics and Science)** — 3 Years Completed (**Final 4th year remaining**)
+- 🎓 **Honours in Computer Science - Data Analysis**
+- 💻 **BSc in Information Technology - System Development**
+- 🤖 **Software Engineering - AI for Software Development**
+- 🌐 **Introduction to Digital Technologies - Fourth Industrial Revolution (4IR)**
+- 📚 **Bachelor of Education - Intermediate Phase (Mathematics and Science)** - 3 Years Completed (**Final 4th year remaining**)
 - 🎯 **Future study interest:** MSc in Data Science
 
 ---
