@@ -136,7 +136,7 @@ I'm developing the **Global Tech Academy Learning Management System (LMS)**, a f
 - **Public Websites:** Building and enhancing websites for educational and organisational purposes.
 - **Online Shopping System:** System design, database development, software implementation, and project presentation.
 - **Interactive Prototypes:** Designing and developing interactive concepts, including an orientation alarm-clock prototype.
-  💼 **Orienta App:** [Visit Website](https://orienta-app.netlify.app/)
+  💼 **Orienta App:** [Visit Live Demo](https://orienta-app.netlify.app/)
 
 ---
 
