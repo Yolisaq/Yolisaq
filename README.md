@@ -128,14 +128,15 @@ I'm developing the **Global Tech Academy Learning Management System (LMS)**, a f
 - Reports, notifications, and audit logs
 - Administrative settings and system management
 
-🔗 **[Explore the Global Tech Academy LMS deployment](global-tech-academy-website-and-lms.netlify.app)**
+🎓 **Global Tech Academy Website & LMS:** [Visit Website](https://global-tech-academy-website-and-lms.netlify.app/)
 
 ### 💡 Other Digital Platform Projects
 
 - **Learning Management Systems:** Developing digital platforms to support course information, learner registration, online learning, and training administration.
 - **Public Websites:** Building and enhancing websites for educational and organisational purposes.
 - **Online Shopping System:** System design, database development, software implementation, and project presentation.
-- **Interactive Prototypes:** Designing and developing interactive concepts, including an orientation alarm-clock prototype.  **[Explore the App deployment] (orienta-app.netlify.app)**
+- **Interactive Prototypes:** Designing and developing interactive concepts, including an orientation alarm-clock prototype.
+  💼 **Orienta App:** [Visit Website](https://orienta-app.netlify.app/)
 
 ---
 
