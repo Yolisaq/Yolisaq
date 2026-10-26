@@ -22,7 +22,7 @@ My experience spans requirements engineering, system development, data integrati
 - 💻 **BSc in Information Technology — System Development**
 - 🤖 **Software Engineering — AI for Software Development**
 - 🌐 **Introduction to Digital Technologies — Fourth Industrial Revolution (4IR)**
-- 📚 **Bachelor of Education — Intermediate Phase (Mathematics and Science)** — studies completed through the third year
+- 📚 **Bachelor of Education — Intermediate Phase (Mathematics and Science)** — 3 Years Completed (**Final 4th year remaining**)
 - 🎯 **Future study interest:** MSc in Data Science
 
 ---
@@ -128,14 +128,14 @@ I'm developing the **Global Tech Academy Learning Management System (LMS)**, a f
 - Reports, notifications, and audit logs
 - Administrative settings and system management
 
-🔗 **[Explore the Global Tech Academy LMS repository](https://github.com/Yolisaq/Global-Tech-Academy-)**
+🔗 **[Explore the Global Tech Academy LMS deployment](global-tech-academy-website-and-lms.netlify.app)**
 
 ### 💡 Other Digital Platform Projects
 
 - **Learning Management Systems:** Developing digital platforms to support course information, learner registration, online learning, and training administration.
 - **Public Websites:** Building and enhancing websites for educational and organisational purposes.
 - **Online Shopping System:** System design, database development, software implementation, and project presentation.
-- **Interactive Prototypes:** Designing and developing interactive concepts, including an orientation alarm-clock prototype.
+- **Interactive Prototypes:** Designing and developing interactive concepts, including an orientation alarm-clock prototype.  **[Explore the App deployment] (orienta-app.netlify.app)**
 
 ---
 
