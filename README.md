@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yolisa Qadi
 
-### IT Professional | Business Systems Analyst | Data Analyst | Software Developer
+### IT Professional | Business Systems Analyst | Data Analyst | Software Developer | System Developer | Software Installation | ICT Course Facilitor
 
 I'm a South African IT and data professional with over 8 years of experience across business analysis, data analytics, technical support, digital media, software development, and ICT skills development.
 
@@ -232,15 +232,15 @@ My professional background includes experience across the following areas:
 - Getting Started with Cisco Packet Tracer
 - Ethical Hacker Certifications
 
-### 🦺 Health, Safety & Emergency Response — HSP Group
-- Basic Emergency First Aid Responder (SP – 230801)
+### 🦺 Health, Safety & Emergency Response - HSP Group
+- Basic Emergency First Aid Responder (SP - 230801)
 - SHE Representative
 - Fire Fighter
 
 ### 💻 Additional Technical & Professional Training
-- CompTIA A+ — Parts 1 and 2
+- CompTIA A+ - Parts 1 and 2
 - CompTIA Security+ and Cloud+ Training
-- Cisco CCNA — ICND1 and ICND2
+- Cisco CCNA - ICND1 and ICND2
 - Microsoft Digital Literacy
 - Cyber Security Awareness — Meta Compliance
 - Amadeus Travel Systems Training
