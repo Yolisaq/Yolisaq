@@ -220,43 +220,31 @@ My professional background includes experience across the following areas:
 
 ## 🏅 Certifications & Professional Training
 
-### ☁️ Oracle
-
+### ☁️ Oracle University
 - Oracle Cloud Infrastructure Certified Foundations Associate
 - Oracle AI Database Certified Foundations Associate
-- Oracle Cloud Infrastructure Architect Associate - examination listed on CV
+- Oracle Cloud Infrastructure Architect Associate — Exam 1Z0-1072-26
 
 ### 🔐 Cisco Networking Academy
-
 - Data Science Essentials with Python
 - Introduction to Cybersecurity
 - Endpoint Security
 - Getting Started with Cisco Packet Tracer
-- Ethical Hacker certificates
+- Ethical Hacker Certifications
 
-### 📚 Additional Training
+### 🦺 Health, Safety & Emergency Response — HSP Group
+- Basic Emergency First Aid Responder (SP – 230801)
+- SHE Representative
+- Fire Fighter
 
-- CompTIA A+ - Parts 1 and 2
-- CompTIA Security+ and Cloud+ training
-- Cisco CCNA - ICND1 and ICND2 training
+### 💻 Additional Technical & Professional Training
+- CompTIA A+ — Parts 1 and 2
+- CompTIA Security+ and Cloud+ Training
+- Cisco CCNA — ICND1 and ICND2
 - Microsoft Digital Literacy
-- Cyber Security Awareness
+- Cyber Security Awareness — Meta Compliance
 - Amadeus Travel Systems Training
-- Database programmes and training
-
----
-
-## 🌱 Current Interests
-
-- Software engineering and full-stack development
-- Artificial intelligence and machine learning
-- Data science and business intelligence
-- Cloud computing and cybersecurity
-- Business systems analysis and digital transformation
-- Workflow automation and system integration
-- Data warehousing and analytical research
-- Technology-enabled education and digital skills development
-- Digital inclusion and youth empowerment
+- Database Programmes and Training
 
 ---
 
