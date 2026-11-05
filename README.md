@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yolisa Qadi
 
-### IT Professional | Business Systems Analyst | Data Analyst | Software Developer | System Developer | Software Installation | ICT Course Facilitor
+### IT Professional | Business Systems Analyst | Data Analyst | Software Developer | Software Installation | ICT Course Facilitor
 
 I'm a South African IT and data professional with over 8 years of experience across business analysis, data analytics, technical support, digital media, software development, and ICT skills development.
 
