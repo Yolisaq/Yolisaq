@@ -81,7 +81,7 @@ My experience spans requirements engineering, system development, data integrati
 - Cloud computing fundamentals
 - IT service support, incident management, and problem resolution
 
-
+---
 ## 🎓 Facilitation, Training & Skills Development
 
 ### 📚 Training & Learning Facilitation
@@ -122,7 +122,6 @@ My experience spans requirements engineering, system development, data integrati
 - IT Support and Troubleshooting
 - Cloud Computing and Server Administration
 - Digital Literacy and Technology Skills
-
 
 ### 🧰 Tools & Platforms
 - Git and GitHub
