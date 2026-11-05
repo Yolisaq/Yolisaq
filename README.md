@@ -7,7 +7,6 @@ I'm a South African IT and data professional with over 8 years of experience acr
 I enjoy solving business problems through technology, translating business requirements into technical solutions, building data-driven applications, improving operational processes, and developing digital platforms that support learning and organisational efficiency.
 
 My experience spans requirements engineering, system development, data integration, testing, workflow automation, reporting, and IT governance.
-
 - 🔭 **Currently building:** Global Tech Academy LMS and digital learning platforms
 - 💼 **Core interests:** Business Systems Analysis, Data Analytics, Software Development, and Digital Transformation
 - 🌱 **Exploring:** Artificial Intelligence, Machine Learning, Cloud Computing, and scalable web applications
@@ -17,7 +16,6 @@ My experience spans requirements engineering, system development, data integrati
 ---
 
 ## 🎓 Education
-
 - 🎓 **Honours in Computer Science - Data Analysis**
 - 💻 **BSc in Information Technology - System Development**
 - 🤖 **Software Engineering - AI for Software Development**
@@ -30,7 +28,6 @@ My experience spans requirements engineering, system development, data integrati
 ## 🛠️ Technical Skills
 
 ### 💻 Programming & Software Development
-
 - Python, Java, C#, C++, PHP, SQL
 - HTML5, CSS3, JavaScript
 - React, Vite, Node.js, Express.js
@@ -40,7 +37,6 @@ My experience spans requirements engineering, system development, data integrati
 - Flutter and Dart
 
 ### 📊 Data Analytics & Business Intelligence
-
 - Python and SQL data analysis
 - Microsoft Power BI and advanced Excel
 - IBM SPSS and Google Analytics 4
@@ -52,7 +48,6 @@ My experience spans requirements engineering, system development, data integrati
 - Data quality assurance and analytical research
 
 ### 📋 Business Analysis & Quality Assurance
-
 - Requirements elicitation and stakeholder engagement
 - Business Requirements Documents (BRDs) and Functional Requirements Documents (FRDs)
 - Functional and non-functional requirements
@@ -67,7 +62,6 @@ My experience spans requirements engineering, system development, data integrati
 - Standard Operating Procedures (SOPs) and system documentation
 
 ### ⚙️ Microsoft 365 & Workflow Automation
-
 - SharePoint Online and Microsoft Teams
 - Power Automate and Power Apps
 - OneDrive and document management
@@ -78,7 +72,6 @@ My experience spans requirements engineering, system development, data integrati
 - Governance, audit readiness, and information management
 
 ### ☁️ IT Infrastructure, Cloud & Cybersecurity
-
 - Hardware and software troubleshooting
 - Networking fundamentals and Cisco Packet Tracer
 - VMware installation and configuration
@@ -88,8 +81,50 @@ My experience spans requirements engineering, system development, data integrati
 - Cloud computing fundamentals
 - IT service support, incident management, and problem resolution
 
-### 🧰 Tools & Platforms
 
+## 🎓 Facilitation, Training & Skills Development
+
+### 📚 Training & Learning Facilitation
+- ICT and End-User Computing facilitation
+- Digital Literacy and Computer Skills Training
+- Software Development and Programming Fundamentals
+- Python Programming, SQL and Database Concepts
+- Cloud Computing and Cloud Administration Fundamentals
+- Networking Fundamentals and IT Infrastructure
+- Practical Technology Training and Hands-on Learning
+- Knowledge Modules (KM), Practical Modules (PM) and Work Experience Modules (WM)
+
+### 📝 Learner Support & Assessment
+- Learner Registration and Administration
+- Learning Programme Coordination and Monitoring
+- Assessment Preparation and Learner Readiness
+- Portfolio of Evidence (POE) Development and Management
+- Assessment Documentation and Evidence Management
+- Learner Progress Tracking and Performance Reporting
+- Facilitator Reports and Training Records
+- Learner Mentorship, Guidance and Academic Support
+
+### 🏢 Skills Development Administration & Compliance
+- Workplace Skills Plans (WSP) and Annual Training Reports (ATR)
+- SETA Reporting and Compliance Documentation
+- Occupational Qualifications and Skills Programmes
+- Training Programme Implementation and Coordination
+- Quality Assurance and Audit Readiness
+- Liaison with Learners, Facilitators, Assessors and Training Providers
+
+### 💡 Areas of Training Interest
+- Occupational Certificate: Cloud Administrator (NQF Level 4)
+- Software Development
+- End-User Computing
+- Python Programming and SQL
+- Git and GitHub
+- Database Development
+- IT Support and Troubleshooting
+- Cloud Computing and Server Administration
+- Digital Literacy and Technology Skills
+
+
+### 🧰 Tools & Platforms
 - Git and GitHub
 - Visual Studio Code
 - Microsoft Office and Visio
@@ -104,11 +139,9 @@ My experience spans requirements engineering, system development, data integrati
 ## 🚀 Featured Project
 
 ### 🌐 Global Tech Academy LMS
-
 I'm developing the **Global Tech Academy Learning Management System (LMS)**, a full-stack digital learning platform designed to support learner administration, programme delivery, assessment management, and training operations.
 
 **Technology stack**
-
 - **Frontend:** React, Vite, JavaScript
 - **Backend:** Node.js and Express.js
 - **Integration:** REST APIs
@@ -116,7 +149,6 @@ I'm developing the **Global Tech Academy Learning Management System (LMS)**, a f
 - **Tools:** Git, GitHub, and Visual Studio Code
 
 **Key capabilities being developed**
-
 - Learner and administrator portals
 - User authentication and role-based permissions
 - Programme, course, and cohort management
@@ -131,7 +163,6 @@ I'm developing the **Global Tech Academy Learning Management System (LMS)**, a f
 🎓 **Global Tech Academy Website & LMS:** [Visit Website](https://global-tech-academy-website-and-lms.netlify.app/)
 
 ### 💡 Other Digital Platform Projects
-
 - **Learning Management Systems:** Developing digital platforms to support course information, learner registration, online learning, and training administration.
 - **Public Websites:** Building and enhancing websites for educational and organisational purposes.
 - **Online Shopping System:** System design, database development, software implementation, and project presentation.
@@ -143,23 +174,18 @@ I'm developing the **Global Tech Academy Learning Management System (LMS)**, a f
 ## 📊 Data Analytics & Research Projects
 
 ### 🔌 Predicting Solar PV Installation and Electricity Production in South Africa
-
 Computer Science Honours research exploring the prediction of solar photovoltaic installation and electricity production using data analysis, statistical techniques, and forecasting.
 
 ### 🧬 CORD-19 Data Analysis
-
 An exploratory data analysis project investigating trends and insights across COVID-19-related scientific literature.
 
 ### 📈 Digital Analytics & Business Intelligence
-
 Analysing website traffic, audience engagement, content performance, and digital campaigns using Google Analytics 4, SQL, IBM SPSS, and Power BI.
 
 ### 🗳️ Elections Website Development
-
 Contributed to frontend and backend website development, integrating political party profiles and election-related information.
 
 ### 📰 Digital Publishing & Quality Assurance
-
 Supported digital content management, website quality assurance, multimedia publishing workflows, and content accuracy across digital platforms.
 
 ---
@@ -169,7 +195,6 @@ Supported digital content management, website quality assurance, multimedia publ
 My professional background includes experience across the following areas:
 
 ### 📋 Business Systems Analysis
-
 - Analyse business processes, operational requirements, and system performance.
 - Translate business needs into functional and technical specifications.
 - Develop process maps, user stories, acceptance criteria, and requirements documentation.
@@ -177,7 +202,6 @@ My professional background includes experience across the following areas:
 - Coordinate system enhancements, stakeholder engagement, and change management.
 
 ### 📊 Data Analysis & Reporting
-
 - Collect, clean, validate, and analyse datasets.
 - Develop dashboards and reports to support data-driven decisions.
 - Analyse operational performance, digital engagement, and business trends.
@@ -185,7 +209,6 @@ My professional background includes experience across the following areas:
 - Maintain data quality, consistency, and integrity across systems.
 
 ### 💻 Software Development & Digital Platforms
-
 - Develop and maintain websites and learning management platforms.
 - Support frontend and backend application development.
 - Integrate systems using APIs, JSON, and XML.
@@ -193,7 +216,6 @@ My professional background includes experience across the following areas:
 - Support software testing, troubleshooting, and deployment activities.
 
 ### ⚙️ Workflow Automation & Information Management
-
 - Develop workflow automation solutions using Power Automate.
 - Manage SharePoint libraries, metadata, taxonomy, and document permissions.
 - Implement structured document management and governance practices.
@@ -201,7 +223,6 @@ My professional background includes experience across the following areas:
 - Improve operational efficiency through process automation.
 
 ### 🧪 Quality Assurance & Testing
-
 - Design and execute test cases.
 - Support System Integration Testing and User Acceptance Testing.
 - Perform regression testing and validate system changes.
@@ -209,7 +230,6 @@ My professional background includes experience across the following areas:
 - Verify that technical solutions meet documented business requirements.
 
 ### 🎓 ICT Skills Development & Technical Support
-
 - Facilitate ICT, End-User Computing, and digital literacy training.
 - Support learner administration, attendance, assessment documentation, and training records.
 - Provide technical support for hardware, software, printers, and network connectivity.
