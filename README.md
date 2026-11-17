@@ -139,7 +139,7 @@ My experience spans requirements engineering, system development, data integrati
 🌐 Global Tech Academy LMS
 Developing a full-stack Learning Management System (LMS) to support
 learner administration, programme delivery, assessment management, and
-training operations.
+training operations. https://global-tech-academy-website-and-lms.netlify.app/
 
 Technology stack - Frontend: React, Vite, JavaScript -
 Backend: Node.js and Express.js - Integration: REST APIs -
@@ -157,12 +157,12 @@ logs - Administrative settings and system management
 🎓 Global Tech Academy Website & LMS: Visit
 Website
 
-🏫 Tech Nexus Academy -- Public Website & LMS
+🏫 **Tech Nexus Academy -- Public Website & LMS**
 Website and Learning Management System development and enhancement to
 support programme management, learner portals, course delivery,
 assessments, and administrative workflows.
 
-🧑‍💼 HR System Locker -- Integrated Human Resource Management System
+🧑‍💼 **HR System Locker -- Integrated Human Resource Management System**
 Designed and developed a multi-organisation HR management solution
 comprising an HR Administration System and Employee Self-Service Portal.
 
@@ -171,7 +171,7 @@ management - User authentication - Document management - PostgreSQL
 database connectivity - React frontend integration with REST APIs -
 Backend service development
 
-📰 SABC News -- Digital Media & News Platforms
+📰 **SABC News -- Digital Media & News Platforms**
 Contributed to digital media, website development, quality assurance,
 analytics, multimedia production, and digital publishing initiatives.
 - 2024 Elections Website: Contributed to frontend and backend
@@ -194,25 +194,25 @@ analytics, multimedia production, and digital publishing initiatives.
   organisation, and quality assurance across SABC News digital
   platforms.
   
-🔌 Honours Research Project -- Solar PV Prediction in South Africa
+🔌 **Honours Research Project -- Solar PV Prediction in South Africa**
 "Predicting Eskom's Solar PV Installation and Electricity Production in
 South Africa." Applied data analysis, statistical techniques, and
 forecasting to investigate solar photovoltaic installation and
 electricity production.
 
-🧬 CORD-19 Data Analysis
+🧬 **CORD-19 Data Analysis**
 Conducted exploratory analysis of the CORD-19 dataset to investigate
 trends and insights in COVID-19-related scientific literature.
 
-🛒 Online Shopping System
+🛒 **Online Shopping System**
 Completed system design, database development, software implementation,
 and project presentation for an online shopping system.
 
-💡 Interactive Prototypes -- Orienta App
+💡 **Interactive Prototypes -- Orienta App**
 Designed and developed interactive prototypes, including an interactive
 orientation alarm-clock concept.
 
-💼 Orienta App: Visit Live Demo
+💼 Orienta App: Visit Live Demo https://orienta-app.netlify.app/
 🌍 Academy and NPO Websites & Learning Platforms
 Developing public-facing websites and learning management platforms to
 support course information, learner registration, online learning, and
