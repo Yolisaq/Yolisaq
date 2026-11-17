@@ -136,56 +136,87 @@ My experience spans requirements engineering, system development, data integrati
 ---
 
 ## 🚀 Featured Project
+🌐 Global Tech Academy LMS
+Developing a full-stack Learning Management System (LMS) to support
+learner administration, programme delivery, assessment management, and
+training operations.
 
-### 🌐 Global Tech Academy LMS
-I'm developing the **Global Tech Academy Learning Management System (LMS)**, a full-stack digital learning platform designed to support learner administration, programme delivery, assessment management, and training operations.
+Technology stack - Frontend: React, Vite, JavaScript -
+Backend: Node.js and Express.js - Integration: REST APIs -
+Security: Password hashing, JWT-based authentication, and role-based
+access controls - Tools: Git, GitHub, and Visual Studio Code
 
-**Technology stack**
-- **Frontend:** React, Vite, JavaScript
-- **Backend:** Node.js and Express.js
-- **Integration:** REST APIs
-- **Security:** Password hashing, JWT-based authentication, and role-based access controls
-- **Tools:** Git, GitHub, and Visual Studio Code
+Key capabilities being developed - Learner and administrator
+portals - User authentication and role-based permissions - Programme,
+course, and cohort management - Learner enrolment and administration -
+Attendance and learner progress tracking - Assessments, submissions,
+marking, and feedback - Certificates and learner records - Finance,
+invoices, and payment administration - Reports, notifications, and audit
+logs - Administrative settings and system management
 
-**Key capabilities being developed**
-- Learner and administrator portals
-- User authentication and role-based permissions
-- Programme, course, and cohort management
-- Learner enrolment and administration
-- Attendance and learner progress tracking
-- Assessments, submissions, marking, and feedback
-- Certificates and learner records
-- Finance, invoices, and payment administration
-- Reports, notifications, and audit logs
-- Administrative settings and system management
+🎓 Global Tech Academy Website & LMS: Visit
+Website
 
-🎓 **Global Tech Academy Website & LMS:** [Visit Website](https://global-tech-academy-website-and-lms.netlify.app/)
+🏫 Tech Nexus Academy -- Public Website & LMS
+Website and Learning Management System development and enhancement to
+support programme management, learner portals, course delivery,
+assessments, and administrative workflows.
 
-### 💡 Other Digital Platform Projects
-- **Learning Management Systems:** Developing digital platforms to support course information, learner registration, online learning, and training administration.
-- **Public Websites:** Building and enhancing websites for educational and organisational purposes.
-- **Online Shopping System:** System design, database development, software implementation, and project presentation.
-- **Interactive Prototypes:** Designing and developing interactive concepts, including an orientation alarm-clock prototype.
-     💼 **Orienta App:** [Visit Live Demo](https://orienta-app.netlify.app/)
+🧑‍💼 HR System Locker -- Integrated Human Resource Management System
+Designed and developed a multi-organisation HR management solution
+comprising an HR Administration System and Employee Self-Service Portal.
 
----
+Key functionality - Employee management - Attendance and leave
+management - User authentication - Document management - PostgreSQL
+database connectivity - React frontend integration with REST APIs -
+Backend service development
 
-## 📊 Data Analytics & Research Projects
+📰 SABC News -- Digital Media & News Platforms
+Contributed to digital media, website development, quality assurance,
+analytics, multimedia production, and digital publishing initiatives.
+- 2024 Elections Website: Contributed to frontend and backend
+  website development, integrating political party profiles and
+  election-related information for contesting political parties.
+- 30 Years of Democracy Website: Performed quality assurance
+  testing, validating website functionality, content accuracy, and
+  user experience.
+- BRICS Summit 2023: Supported digital media production,
+  multimedia content coordination, and online news coverage of the
+  international summit.
+- Funeral and Memorial of Prince Mangosuthu Buthelezi: Supported
+  multimedia content production and digital news coverage for this
+  high-profile national event.
+- Digital News Analytics & Reporting: Analysed website traffic,
+  audience engagement, and digital content performance using Google
+  Analytics 4 (GA4), SQL, IBM SPSS, and Power BI.
+- Digital Publishing & Content Management: Supported website
+  content updates, multimedia publishing workflows, content
+  organisation, and quality assurance across SABC News digital
+  platforms.
+  
+🔌 Honours Research Project -- Solar PV Prediction in South Africa
+"Predicting Eskom's Solar PV Installation and Electricity Production in
+South Africa." Applied data analysis, statistical techniques, and
+forecasting to investigate solar photovoltaic installation and
+electricity production.
 
-### 🔌 Predicting Solar PV Installation and Electricity Production in South Africa
-Computer Science Honours research exploring the prediction of solar photovoltaic installation and electricity production using data analysis, statistical techniques, and forecasting.
+🧬 CORD-19 Data Analysis
+Conducted exploratory analysis of the CORD-19 dataset to investigate
+trends and insights in COVID-19-related scientific literature.
 
-### 🧬 CORD-19 Data Analysis
-An exploratory data analysis project investigating trends and insights across COVID-19-related scientific literature.
+🛒 Online Shopping System
+Completed system design, database development, software implementation,
+and project presentation for an online shopping system.
 
-### 📈 Digital Analytics & Business Intelligence
-Analysing website traffic, audience engagement, content performance, and digital campaigns using Google Analytics 4, SQL, IBM SPSS, and Power BI.
+💡 Interactive Prototypes -- Orienta App
+Designed and developed interactive prototypes, including an interactive
+orientation alarm-clock concept.
 
-### 🗳️ Elections Website Development
-Contributed to frontend and backend website development, integrating political party profiles and election-related information.
-
-### 📰 Digital Publishing & Quality Assurance
-Supported digital content management, website quality assurance, multimedia publishing workflows, and content accuracy across digital platforms.
+💼 Orienta App: Visit Live Demo
+🌍 Academy and NPO Websites & Learning Platforms
+Developing public-facing websites and learning management platforms to
+support course information, learner registration, online learning, and
+academy administration.
 
 ---
 
