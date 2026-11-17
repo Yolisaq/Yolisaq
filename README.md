@@ -214,6 +214,7 @@ Designed and developed interactive prototypes, including an interactive
 orientation alarm-clock concept.
 
 💼 Orienta App: Visit Live: https://orienta-app.netlify.app/
+
 🌍 Academy and NPO Websites & Learning Platforms
 Developing public-facing websites and learning management platforms to
 support course information, learner registration, online learning, and
