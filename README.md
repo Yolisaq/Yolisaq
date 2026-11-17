@@ -139,7 +139,8 @@ My experience spans requirements engineering, system development, data integrati
 🌐 Global Tech Academy LMS
 Developing a full-stack Learning Management System (LMS) to support
 learner administration, programme delivery, assessment management, and
-training operations. https://global-tech-academy-website-and-lms.netlify.app/
+training operations. 
+Live Website: https://global-tech-academy-website-and-lms.netlify.app/
 
 Technology stack - Frontend: React, Vite, JavaScript -
 Backend: Node.js and Express.js - Integration: REST APIs -
@@ -211,13 +212,12 @@ and project presentation for an online shopping system.
 💡 **Interactive Prototypes -- Orienta App**
 Designed and developed interactive prototypes, including an interactive
 orientation alarm-clock concept.
-
-💼 Orienta App: Visit Live Demo https://orienta-app.netlify.app/
+ 
 🌍 Academy and NPO Websites & Learning Platforms
 Developing public-facing websites and learning management platforms to
 support course information, learner registration, online learning, and
 academy administration.
-
+💼 Orienta App: Visit Live: https://orienta-app.netlify.app/
 ---
 
 ## 💼 Professional Experience
