@@ -28,13 +28,15 @@ My experience spans requirements engineering, system development, data integrati
 ## 🛠️ Technical Skills
 
 ### 💻 Programming & Software Development
-- Python, Java, C#, C++, PHP, SQL
-- HTML5, CSS3, JavaScript
-- React, Vite, Node.js, Express.js
-- Database design, SQL querying, and data validation
-- REST APIs, JSON, XML, and system integration
-- Git, GitHub, and software deployment fundamentals
-- Flutter and Dart
+- **Programming Languages:** Python, Java, C#, C++, PHP, JavaScript, SQL
+- **Frontend Development:** HTML5, CSS3, React.js, Vite
+- **Backend Development:** Node.js, Express.js
+- **Mobile Development:** Flutter and Dart
+- **Database Management:** PostgreSQL, database design, SQL querying, schema development, migrations, and data validation
+- **API Development & Integration:** REST APIs, JSON, XML, frontend-backend integration, and API testing
+- **Authentication & Security:** JWT-based authentication, password hashing, and role-based access control
+- **Software Engineering:** Full-stack application development, debugging, testing, and system integration
+- **Version Control & Deployment:** Git, GitHub, Render, Netlify, and Visual Studio Code
 
 ### 📊 Data Analytics & Business Intelligence
 - Python and SQL data analysis
