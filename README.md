@@ -135,90 +135,105 @@ My experience spans requirements engineering, system development, data integrati
 
 ---
 
-## 🚀 Featured Project
-🌐 Global Tech Academy LMS
-Developing a full-stack Learning Management System (LMS) to support
-learner administration, programme delivery, assessment management, and
-training operations. 
-Live Website: [Visit Global Tech Academy LMS](https://global-tech-academy-website-and-lms.netlify.app/)
+## 🚀 Featured Projects
 
-Technology stack - Frontend: React, Vite, JavaScript -
-Backend: Node.js and Express.js - Integration: REST APIs -
-Security: Password hashing, JWT-based authentication, and role-based
-access controls - Tools: Git, GitHub, and Visual Studio Code
+🧑‍💼 **HR System Locker – Integrated Human Resource Management System**
+Designed, developed, integrated, and deployed a web-based Human Resource Management System comprising two connected applications: an Admin Portal and an Employee Self-Service Portal.
 
-Key capabilities being developed - Learner and administrator
-portals - User authentication and role-based permissions - Programme,
-course, and cohort management - Learner enrolment and administration -
-Attendance and learner progress tracking - Assessments, submissions,
-marking, and feedback - Certificates and learner records - Finance,
-invoices, and payment administration - Reports, notifications, and audit
-logs - Administrative settings and system management
+**Live Applications:**
+- Admin Portal: [Visit HR System Locker – Admin Portal](https://hr-system-locker-admin.netlify.app/)
+- Employee Portal: [Visit HR System Locker – Employee Portal](https://hr-system-locker-employee.netlify.app/)
 
-🎓 Global Tech Academy Website & LMS: Visit
-Website
+**System Architecture & Implementation**
+- Developed two separate React frontend applications connected to a shared Node.js and Express.js backend API.
+- Designed and integrated a PostgreSQL database with database schemas and migrations.
+- Implemented REST API endpoints for HR operations and application communication.
+- Configured JWT-based authentication, password hashing, and role-based access controls.
+- Implemented secure employee account activation through time-limited activation links.
+- Configured environment variables and Cross-Origin Resource Sharing (CORS).
+- Used Git and GitHub for source-code management and version control.
+- Deployed the backend API and PostgreSQL database using Render.
+- Deployed the Admin Portal and Employee Portal separately using Netlify.
 
-🏫 **Tech Nexus Academy -- Public Website & LMS**
-Website and Learning Management System development and enhancement to
-support programme management, learner portals, course delivery,
-assessments, and administrative workflows.
+**Admin Portal Capabilities**
+- Organisational and employee record management
+- Department management
+- Attendance management
+- Leave administration
+- Employee document management
+- Role-based administrative access
 
-🧑‍💼 **HR System Locker -- Integrated Human Resource Management System**
-Designed and developed a multi-organisation HR management solution
-comprising an HR Administration System and Employee Self-Service Portal.
+**Employee Portal Capabilities**
+- Secure employee account activation
+- Password creation and authentication
+- Employee self-service access
+- Personal profile management
+- Attendance and leave information
+- Employee document access
 
-Key functionality - Employee management - Attendance and leave
-management - User authentication - Document management - PostgreSQL
-database connectivity - React frontend integration with REST APIs -
-Backend service development
+**Technology Stack**
+- Frontend: React, JavaScript, Vite
+- Backend: Node.js, Express.js
+- Database: PostgreSQL
+- Integration: REST APIs
+- Security: JWT authentication, password hashing, role-based access control
+- Version Control: Git and GitHub
+- Deployment: Render and Netlify
 
-📰 **SABC News -- Digital Media & News Platforms**
-Contributed to digital media, website development, quality assurance,
-analytics, multimedia production, and digital publishing initiatives.
-- 2024 Elections Website: Contributed to frontend and backend
-  website development, integrating political party profiles and
-  election-related information for contesting political parties.
-- 30 Years of Democracy Website: Performed quality assurance
-  testing, validating website functionality, content accuracy, and
-  user experience.
-- BRICS Summit 2023: Supported digital media production,
-  multimedia content coordination, and online news coverage of the
-  international summit.
-- Funeral and Memorial of Prince Mangosuthu Buthelezi: Supported
-  multimedia content production and digital news coverage for this
-  high-profile national event.
-- Digital News Analytics & Reporting: Analysed website traffic,
-  audience engagement, and digital content performance using Google
-  Analytics 4 (GA4), SQL, IBM SPSS, and Power BI.
-- Digital Publishing & Content Management: Supported website
-  content updates, multimedia publishing workflows, content
-  organisation, and quality assurance across SABC News digital
-  platforms.
-  
-🔌 **Honours Research Project -- Solar PV Prediction in South Africa**
-"Predicting Eskom's Solar PV Installation and Electricity Production in
-South Africa." Applied data analysis, statistical techniques, and
-forecasting to investigate solar photovoltaic installation and
-electricity production.
+**Project Status:** Both portals have been deployed. Administrator login, employee account activation, employee login, and logout have been tested. Further HR module functional testing, dashboard improvements, and user experience enhancements remain ongoing.
+
+🌐 **Global Tech Academy LMS**
+Developing a full-stack Learning Management System (LMS) to support learner administration, programme delivery, assessment management, and training operations.
+**Live Website:** [Visit Global Tech Academy LMS](https://global-tech-academy-website-and-lms.netlify.app/)
+
+**Technology Stack**
+- Frontend: React, Vite, JavaScript
+- Backend: Node.js and Express.js
+- Integration: REST APIs
+- Security: Password hashing, JWT-based authentication, and role-based access controls
+- Tools: Git, GitHub, and Visual Studio Code
+
+**Key Capabilities Being Developed**
+- Learner and administrator portals
+- User authentication and role-based permissions
+- Programme, course, and cohort management
+- Learner enrolment and administration
+- Attendance and learner progress tracking
+- Assessments, submissions, marking, and feedback
+- Certificates and learner records
+- Finance, invoices, and payment administration
+- Reports, notifications, and audit logs
+- Administrative settings and system management
+
+🏫 **Tech Nexus Academy – Public Website & LMS**
+Website and Learning Management System development and enhancement to support programme management, learner portals, course delivery, assessments, and administrative workflows.
+
+📰 **SABC News – Digital Media & News Platforms**
+
+Contributed to digital media, website development, quality assurance, analytics, multimedia production, and digital publishing initiatives.
+- **2024 Elections Website:** Contributed to frontend and backend website development, integrating political party profiles and election-related information for contesting political parties.
+- **30 Years of Democracy Website:** Performed quality assurance testing, validating website functionality, content accuracy, and user experience.
+- **BRICS Summit 2023:** Supported digital media production, multimedia content coordination, and online news coverage of the international summit.
+- **Funeral and Memorial of Prince Mangosuthu Buthelezi:** Supported multimedia content production and digital news coverage for this high-profile national event.
+- **Digital News Analytics & Reporting:** Analysed website traffic, audience engagement, and digital content performance using Google Analytics 4 (GA4), SQL, IBM SPSS, and Power BI.
+- **Digital Publishing & Content Management:** Supported website content updates, multimedia publishing workflows, content organisation, and quality assurance across SABC News digital platforms.
+
+🔌 **Honours Research Project – Solar PV Prediction in South Africa**
+"Predicting Eskom's Solar PV Installation and Electricity Production in South Africa." Applied data analysis, statistical techniques, and forecasting to investigate solar photovoltaic installation and electricity production.
 
 🧬 **CORD-19 Data Analysis**
-Conducted exploratory analysis of the CORD-19 dataset to investigate
-trends and insights in COVID-19-related scientific literature.
+Conducted exploratory analysis of the CORD-19 dataset to investigate trends and insights in COVID-19-related scientific literature.
 
 🛒 **Online Shopping System**
-Completed system design, database development, software implementation,
-and project presentation for an online shopping system.
+Completed system design, database development, software implementation, and project presentation for an online shopping system.
 
-💡 **Interactive Prototypes -- Orienta App**
-Designed and developed interactive prototypes, including an interactive
-orientation alarm-clock concept.
+💡 **Interactive Prototypes – Orienta App**
+Designed and developed interactive prototypes, including an interactive orientation alarm-clock concept.
 
-💼 Orienta App: [View Live Demo](https://orienta-app.netlify.app/)
+💼 **Orienta App:** [View Live Demo](https://orienta-app.netlify.app/)
 
-🌍 Academy and NPO Websites & Learning Platforms
-Developing public-facing websites and learning management platforms to
-support course information, learner registration, online learning, and
-academy administration.
+🌍 **Academy and NPO Websites & Learning Platforms**
+Developing public-facing websites and learning management platforms to support course information, learner registration, online learning, and academy administration.
 
 ---
 
@@ -269,13 +284,16 @@ My professional background includes experience across the following areas:
 - Contribute to community-based digital skills development initiatives.
 
 ---
-
 ## 🏅 Certifications & Professional Training
 
 ### ☁️ Oracle University
 - Oracle Cloud Infrastructure Certified Foundations Associate
 - Oracle AI Database Certified Foundations Associate
 - Oracle Cloud Infrastructure Architect Associate — Exam 1Z0-1072-26
+
+### ☁️ AWS Skills Centers
+- Becoming a Cloud Practitioner – Identities, Security, and Monitoring the AWS Cloud
+- Becoming a Cloud Practitioner – Advanced Cloud Services
 
 ### 🔐 Cisco Networking Academy
 - Data Science Essentials with Python
@@ -284,20 +302,19 @@ My professional background includes experience across the following areas:
 - Getting Started with Cisco Packet Tracer
 - Ethical Hacker Certifications
 
-### 🦺 Health, Safety & Emergency Response - HSP Group
+### 🦺 Health, Safety & Emergency Response – HSP Group
 - Basic Emergency First Aid Responder (SP - 230801)
 - SHE Representative
 - Fire Fighter
 
 ### 💻 Additional Technical & Professional Training
-- CompTIA A+ - Parts 1 and 2
+- CompTIA A+ – Parts 1 and 2
 - CompTIA Security+ and Cloud+ Training
-- Cisco CCNA - ICND1 and ICND2
+- Cisco CCNA – ICND1 and ICND2
 - Microsoft Digital Literacy
 - Cyber Security Awareness — Meta Compliance
 - Amadeus Travel Systems Training
 - Database Programmes and Training
-
 ---
 
 ## 🤝 Let's Connect
